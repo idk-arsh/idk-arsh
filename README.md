@@ -26,7 +26,7 @@ Here are some projects I’ve worked on:
 - Exploring ways to enhance the performance of my **movie recommendation system**.
 
 ## 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://linkedin.com/your-linkedin) or check out more about my work here on GitHub!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/udkash/) or check out more about my work here on GitHub!
 
 ---
 
