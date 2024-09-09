@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Arshdeep a.k.a Arsh
-- 👀 I’m interested in Problem Solving, Machine Learning, Web-development
-- 🌱 I’m currently learning trending topics in the market.
-- 💞️ I’m looking to collaborate on any Machine Learning projects/ Web development Projects
-- 📫 How to reach me my email arsh9745774@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I can speak 5 languages, I do calligraphy and play piano 
+rajaprerak/README.md
+Coder GIF
 
-<!---
-idk-arsh/idk-arsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, I am Prerak Raja 👋
+Linkedin Badge Gmail Badge
+
+🎯 Portfolio website: Portfolio
+⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+💻 Things I love
+
+Python 
+
+Backend Development ✍️
+
+Machine Learning 🧐
+
+Data Science 😬
+
+
+🛠Tech Stack
+
+Python Django Flask HTML5 CSS3
+
+Bootstrap MySQL GitHub Linux Heroku
+
+Tensorflow PyTorch OpenCV AWS Git
+
+Show some  ❤️  by starring some of the repositories!
