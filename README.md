@@ -4,17 +4,19 @@ Welcome to my GitHub! I'm a passionate software developer and data enthusiast wi
 
 ## 💻 Technologies & Tools
 I'm well-versed in a variety of programming languages, tools, and frameworks:
-- **Languages**: Python, JavaScript, SQL, HTML, CSS
-- **Frameworks**: Flask, Node.js, React, TensorFlow, Keras
+- **Languages**: Python, JavaScript, HTML, CSS, Java, C++, SQL
+- **Data Science Tools**: Pandas, NumPy, SciPy, Scikit-Learn, TensorFlow, Keras, Matplotlib, Seaborn
+- **Machine Learning**: Supervised Learning, Unsupervised Learning, Transfer Learning, Model Evaluation
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
+- **Web Development**: React, Node.js, Express.js, Flask, RESTful APIs, AJAX, Bootstrap
+- **Tools**: Git, Jupyter Notebook, Vercel, Postman, Render, Sublime Text, Visual Studio Code
 
 ## 🚀 Projects
 Here are some projects I’ve worked on:
-- **[Course Finder](https://github.com/your-course-finder-link)**: A platform for exploring and tracking courses based on personal interests.
-- **[Mental Health Chatbot](https://github.com/your-mental-health-bot-link)**: Pandora, a personal therapeutic AI assistant designed to help with mental well-being.
-- **[Dog Breed Identifier](https://github.com/your-dog-breed-identifier-link)**: A machine learning model that identifies dog breeds from images.
-- **[Movie Recommendation System](https://github.com/your-movie-recommendation-system-link)**: A personalized movie recommendation system using collaborative filtering.
+- **[Course Finder](https://github.com/idk-arsh/lrning-path)**: A platform for exploring and tracking courses based on personal interests.
+- **[Mental Health Chatbot](https://github.com/idk-arsh/mentalhealth)**: Pandora, a personal therapeutic AI assistant designed to help with mental well-being.
+- **[Dog Breed Identifier](https://github.com/idk-arsh/dog_breed)**: A machine learning model that identifies dog breeds from images.
+- **[Movie Recommendation System](https://github.com/idk-arsh/Movie_system)**: A personalized movie recommendation system using collaborative filtering.
 
 ## 🧠 About Me
 - 📊 Data Science enthusiast with experience in machine learning, data analytics, and predictive modeling.
