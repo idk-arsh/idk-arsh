@@ -20,7 +20,7 @@ Here are some projects I’ve worked on:
 
 ## 🧠 About Me
 - 📊 Data Science enthusiast with experience in machine learning, data analytics, and predictive modeling.
-- 🎓 Currently working on exciting projects like a **Phosphorus Data Analysis** study with **Dr. Jagdeep Singh** to predict soil phosphorus levels.
+- 🎓 Worked on exciting projects like a **Phosphorus Data Analysis** study with **Dr. Jagdeep Singh** to predict soil phosphorus levels.
 - 🌱 Constantly learning and exploring new technologies like **BERT** and **transfer learning**.
 
 ## 🛠️ Current Endeavors
