@@ -1,8 +1,9 @@
 # Hi there, I am Arshdeep Singh. People also know me as Arsh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/udkash/) 
-[![Email](https://img.shields.io/badge/Email-red)](mailto:arsh9745774@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/) 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udk_arsh)
+
 
 
 - 🌐 Portfolio website: [Portfolio](https://idk-arsh.github.io/portfolio/)
