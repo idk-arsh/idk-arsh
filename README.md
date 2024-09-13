@@ -12,8 +12,8 @@
   ![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ5aHExZTMwOW5uZ25yeWNvdnNiODF0dzAycXg1MG94eXFoMDd2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
   [![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=idk-arsh&layout=compact)](https://github.com/idk-arsh/)
   ## 📈 GitHub Stats
-  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=idk_Arsh&show_icons=true&count_private=true&theme=radical)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=idk_Arsh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=idk-arsh&show_icons=true&count_private=true&theme=radical)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=idk-arsh&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
