@@ -7,7 +7,7 @@
 
 
 - 🌐 Portfolio website: [Portfolio](https://idk-arsh.github.io/portfolio/)
-- ⚡ Quote that motivates me-"BE BETTER TAH YESTERDAY"
+- ⚡ Quote that motivates me-"BE BETTER THAN YESTERDAY"
 
   ![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGQ5aHExZTMwOW5uZ25yeWNvdnNiODF0dzAycXg1MG94eXFoMDd2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)
 
