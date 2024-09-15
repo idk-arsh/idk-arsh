@@ -4,6 +4,8 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udk_arsh)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 
 
 - 🌐 Portfolio website: [Portfolio](https://idk-arsh.github.io/portfolio/)
