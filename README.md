@@ -57,7 +57,7 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idk-arsh&layout=compact&theme=radical)
 
 
-[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=idk-arsh&theme=github-comapct&hide_border=true)](https://github.com/idk-arsh/github-readme-activity-graph)
+[![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=idk-arsh&theme=github-compact&hide_border=true)](https://github.com/idk-arsh/github-readme-activity-graph)
 
 ---
 
