@@ -6,9 +6,8 @@ I love open-source.
 - 🌐 Portfolio website: [Portfolio](https://idk-arsh.github.io/portfolio/)
 - ⚡ Quote that motivates me-"BE BETTER THAN YESTERDAY"
 
-![Followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)
-![Stars](https://img.shields.io/github/stars/YourUsername?label=Stars)
-![Subscribers](https://img.shields.io/github/watchers/YourUsername?label=Subscribers)
+![Stars](https://img.shields.io/github/stars/idk-arsh?label=Stars)
+
 
 ## 🛠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
