@@ -7,7 +7,13 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 - 💻 I love contributing to open-source projects and developing cool software!
 
 ---
+### 📫 Let's Connect:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udk_arsh)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com)
+
+---
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Web Development
@@ -59,12 +65,6 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 
 ---
 
-### 📫 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udk_arsh)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com)
 
----
 
-✨ *Open-source lover, striving for clean code and impactful solutions!* ✨
