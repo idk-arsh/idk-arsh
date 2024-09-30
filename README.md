@@ -47,11 +47,6 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 
 ## 📈 Statistics
 
-
----
-
-## 📈 Statistics
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=idk-arsh&show_icons=true&theme=radical" height="150px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=idk-arsh&theme=radical" height="150px">
