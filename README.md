@@ -1,12 +1,11 @@
 
 # Hi there! 👋
 
-I love open-source.
+I am Arshdeep (Arsh) Ghotra.
 
 - 🌐 Portfolio website: [Portfolio](https://idk-arsh.github.io/portfolio/)
 - ⚡ Quote that motivates me-"BE BETTER THAN YESTERDAY"
 
-![Stars](https://img.shields.io/github/stars/idk-arsh?label=Stars)
 
 
 ## 🛠 Languages
