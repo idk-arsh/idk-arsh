@@ -8,9 +8,12 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 
 ---
 ### 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udkash/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/udk_arsh)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com)
+<p>
+  <div align="center" target="_blank">
+  <img src='https://img.shields.io/twitter/follow/idk-arsh/style=social">
+    
+  </div>
+</p>
 
 ---
 ## 🛠️ Tech Stack & Tools
