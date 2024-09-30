@@ -1,4 +1,4 @@
-# Hi there, I am Arshdeep Singh. People also know me as Arsh
+# Hi y'all, I am Arshdeep Singh. Call me Arsh
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/) 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com) 
