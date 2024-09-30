@@ -73,6 +73,8 @@ I am Arshdeep (Arsh) Ghotra.
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=idk-arsh&theme=radical)
 
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=idk-arsh&theme=dracula)
+
 
 
 
