@@ -1,3 +1,38 @@
+
+# Hi there! 👋
+
+I love open-source.
+
+![Followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/YourUsername?label=Stars)
+![Subscribers](https://img.shields.io/github/watchers/YourUsername?label=Subscribers)
+
+### Languages and Tools:
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+
+### Contact Me:
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourUsername/)
+
+---
+
+### 📊 GitHub Stats:
+
+![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idk-arsh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idk-arsh&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=idk-arsh&theme=radical)
+
+
 <center># Hi y'all, I am Arshdeep Singh.</center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/) 
