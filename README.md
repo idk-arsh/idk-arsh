@@ -48,16 +48,19 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 ## 📈 Statistics
 
 
-![Arsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idk-arsh&show_icons=true&theme=radical)
+---
 
+## 📈 Statistics
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=idk-arsh&theme=radical)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idk-arsh&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=idk-arsh&show_icons=true&theme=radical" height="150px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idk-arsh&theme=radical" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idk-arsh&layout=compact&theme=radical" height="150px">
+</div>
 
 [![Arsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=idk-arsh&theme=github-compact&hide_border=true)](https://github.com/idk-arsh/github-readme-activity-graph)
+
+---
 
 ---
 
