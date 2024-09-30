@@ -59,7 +59,7 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 ---
 
 ## 🚀 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=idk-arsh&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=idk-arsh&theme=github-dark&hide_border=true)](https://github.com/idk-arsh/github-readme-activity-graph)
 
 ---
 
