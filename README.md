@@ -1,4 +1,4 @@
-                            # Hi y'all, I am Arshdeep Singh.
+<center># Hi y'all, I am Arshdeep Singh.</center>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/udkash/) 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:arsh9745774@gmail.com) 
