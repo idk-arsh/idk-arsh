@@ -82,7 +82,7 @@ No need to memorize every dog breed! The Dog Breed Identifier uses a trained mod
 Can't decide what to watch next? This movie recommendation system takes the guesswork out of your movie nights. By selecting your preferred genres, you'll receive a curated list of the best films from 1970 to 2023. The model achieves high precision by using the Surprise library, ensuring users are matched with movies that fit their tastes—processing recommendations with lightning speed.
 
 - **Gym Workout App**
-  In today's gyms, people often struggle to decide which workout to do, especially when equipment is in use or when unsure about the right exercise for their fitness goals. To solve this problem, I developed a Gym Workout App that provides users with personalized workout recommendations based on various factors.
+</br>In today's gyms, people often struggle to decide which workout to do, especially when equipment is in use or when unsure about the right exercise for their fitness goals. To solve this problem, I developed a Gym Workout App that provides users with personalized workout recommendations based on various factors.
 
 ---
 
