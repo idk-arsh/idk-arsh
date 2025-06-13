@@ -12,7 +12,7 @@ I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 <p align="center">
     <a href="https://www.linkedin.com/in/udkash"><img width="75px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href="mailto:rsh9745774@gmail.com"><img width="75px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="Email"/></a>
-    <a href="https://www.instagram.com/udk_arsh"><img width="75px" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/></a>
+    <a href="https://www.instagram.com/_udk_ash"><img width="75px" src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="Instagram"/></a>
 </p>
 
 ---
