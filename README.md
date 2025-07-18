@@ -1,5 +1,5 @@
 # Hi there! 👋  
-I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
+I'm **Arsh Singh Ghotra**, but you can call me **Arsh**.
 
 - 🌐 [Check out my Portfolio](https://idk-arsh.github.io/portfolio/)
 - ⚡ **"ABOVE THE NOISE, ABOVE AVERAGE."** — a quote I live by.
