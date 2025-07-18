@@ -2,7 +2,7 @@
 I'm **Arshdeep Singh Ghotra**, but you can call me **Arsh**.
 
 - 🌐 [Check out my Portfolio](https://idk-arsh.github.io/portfolio/)
-- ⚡ **"BE BETTER THAN YESTERDAY"** — a quote I live by.
+- ⚡ **"ABOVE THE NOISE, ABOVE AVERAGE."** — a quote I live by.
 - 💻 Passionate about open-source and building impactful software solutions.
 
 ---
