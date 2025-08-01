@@ -1,7 +1,7 @@
 # Hi there! 👋  
 I'm **Arsh Singh Ghotra**, but you can call me **Arsh**.
 
-- 🌐 [Check out my Portfolio](http://arsh.portfolio.com/)
+- 🌐 [Check out my Portfolio](https://idk-arsh.github.io/arsh-portolio/)
 - ⚡ **"ABOVE THE NOISE, ABOVE AVERAGE."** — a quote I live by.
 - 💻 Passionate about open-source and building impactful software solutions.
 
