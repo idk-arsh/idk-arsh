@@ -90,7 +90,7 @@ Can't decide what to watch next? This movie recommendation system takes the gues
 
 Hi, I'm Arshdeep Singh Ghotra, but feel free to call me Arsh. Some friends call me Ash—you can take a guess why! 😉
 
-I started my journey with a Data Analyst internship in my freshman year. Currently, I worked at my university library as an Advanced Technology Assistant, focused on data normalization and website development. I've also worked at Glas-col as an IT intern for the Fall 2024, centered around database management.
+I started my journey with a Data Analyst internship in my freshman year. I worked at my university library as an Advanced Technology Assistant, focused on data normalization and website development. I've also worked at Glas-col as an IT intern for the Fall 2024, centered around database management.
 
 As a Comp Sci Major, I’m constantly improving my skills in Python, JavaScript, C++, Java, and SQL. I’m driven by a deep curiosity to solve real-world problems and simplify life through technology. My main areas of interest include Data Science, Artificial Intelligence, Web Development, and Software Engineering.
 
