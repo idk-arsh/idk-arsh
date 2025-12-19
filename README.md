@@ -2,7 +2,7 @@
 I'm **Arsh Singh Ghotra**, but you can call me **Arsh**.
 
 - 🌐 [Check out my Portfolio](https://idk-arsh.github.io/arsh-portolio/)
-- ⚡ **"ABOVE THE NOISE, ABOVE AVERAGE."** — a quote I live by.
+- ⚡ **"ABOVE THE NOISE, ABOVE AVERAGE."** - a quote I live by.
 - 💻 Passionate about open-source and building impactful software solutions.
 
 ---
@@ -88,10 +88,10 @@ Can't decide what to watch next? This movie recommendation system takes the gues
 
 ## 💂‍♂️ About Me
 
-Hi, I'm Arshdeep Singh Ghotra, but feel free to call me Arsh. Some friends call me Ash—you can take a guess why! 😉
+Hi, I'm Arshdeep Singh Ghotra, but feel free to call me Arsh. Some friends call me Ash, you can take a guess why! 😉
 
 I started my journey with a Data Analyst internship in my freshman year. I worked at my university library as an Advanced Technology Assistant, focused on data normalization and website development. I've also worked at Glas-col as an IT intern in the Fall 2024, centered around database management.
 
 As a Comp Sci Major, I’m constantly improving my skills in Python, JavaScript, C++, Java, and SQL. I’m driven by a deep curiosity to solve real-world problems and simplify life through technology. My main areas of interest include Data Science, Artificial Intelligence, Web Development, and Software Engineering.
 
-I thrive on turning ideas into reality—whether it's developing smart solutions with Node.js or creating seamless experiences using modern JavaScript frameworks like React. I also love delving into data, exploring insights through analysis, and transforming those insights into impactful recommendations and visualizations.
+I thrive on turning ideas into reality-whether it's developing smart solutions with Node.js or creating seamless experiences using modern JavaScript frameworks like React. I also love delving into data, exploring insights through analysis, and transforming those insights into impactful recommendations and visualizations.
