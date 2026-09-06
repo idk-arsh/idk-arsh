@@ -1,7 +1,7 @@
 # Arsh Singh
 
-Software engineer, Computer Science graduate. I build developer tools and
-machine learning projects, mostly in Python.
+Software engineer, Computer Science graduate. I build developer tools, mostly
+in Python.
 
 ## Now
 
@@ -11,19 +11,18 @@ folders a project needs and what each one runs, and broadcast typing to every
 pane. Python and Tk, no Electron. Released, MIT licensed, downloadable as a
 single exe.
 
-Next up is a from-scratch course on how AI agents actually work: one runnable
-file per chapter, no frameworks. It goes public once the first few chapters are
-done.
+## In progress
 
-## Machine learning
+Three repos, private until each is worth reading. They tell one story:
+learn how agents work, ship one, test it.
 
-Applied projects on public datasets:
-
-- [NASA turbofan predictive maintenance](https://github.com/idk-arsh/NASA-predictive-maintenance), remaining useful life estimation on engine degradation data
-- [Customer churn](https://github.com/idk-arsh/Customer-Churn), classification with feature engineering and imbalanced classes
-- [Flight price prediction](https://github.com/idk-arsh/Flight-Price-Prediction), regression from route, carrier and timing
-- [Bulldozer auction prices](https://github.com/idk-arsh/Sale-Price-of-Bulldozers), time-series regression on the Blue Book dataset
-- [Heart disease detection](https://github.com/idk-arsh/heart-disease-detection), binary classification with model comparison
+- A from-scratch course on AI agents: twelve chapters, one runnable file each,
+  no frameworks, every chapter executed in CI. Public once the first four
+  chapters are done.
+- A production agent starter kit: FastAPI, Next.js, streaming, MCP, auth,
+  Docker. Public once it boots from a clean clone with one command.
+- An evaluation and tracing toolkit for LLM agents and MCP servers, pytest
+  native and local first. Public at the first PyPI release.
 
 ## Background
 
