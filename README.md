@@ -1,9 +1,7 @@
 # Arsh Ghotra
 
-AI and Data Solutions Engineer at Sara Software Systems. I build automation
-systems around language models: document parsing pipelines, retrieval over
-local embeddings, and the workflow glue that makes them reliable. Python, SQL,
-Databricks. Computer Science, Indiana State University.
+AI and Data Solutions Engineer. I build automation systems around language
+models and developer tools, mostly in Python.
 
 ## Now
 
@@ -25,21 +23,6 @@ learn how agents work, ship one, test it.
   Docker. Public once it boots from a clean clone with one command.
 - An evaluation and tracing toolkit for LLM agents and MCP servers, pytest
   native and local first. Public at the first PyPI release.
-
-## Work
-
-At Sara Software Systems (since 2025) I design the AI workflow systems behind
-proposal and RFI generation. Two pieces I have written about: a document parser
-that turns a 60-page document into structured task rows in about 12 seconds,
-with regex doing the structural work and the model doing only the reading, and
-a retrieval layer over it using BGE-large embeddings in a FAISS index so past
-projects can be matched to new ones without any historical data leaving the
-local environment. Databricks partner training in platform architecture and
-Unity Catalog governance.
-
-Before that: Advanced Technology Assistant at Indiana State University (data
-cleaning and normalisation across 10,000+ datasets, website tracking systems)
-and IT intern at Glas-Col (SQL report automation, Power BI dashboards).
 
 ## Contact
 
