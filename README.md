@@ -33,4 +33,4 @@ IT intern at Glas-Col working on database management.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/udkash) · [Portfolio](https://portfolio-omega-steel-20.vercel.app/) · rsh9745774@gmail.com
+[LinkedIn](https://www.linkedin.com/in/udkash) · [Portfolio](https://portfolio-omega-steel-20.vercel.app/) · arsh9745774@gmail.com
