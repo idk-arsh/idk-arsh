@@ -13,14 +13,19 @@ Chapters 1 to 4 are done: the loop, tools, error recovery, loop control with a
 real dollar cap. In progress in the open.
 
 **[claude-code-windows-kit](https://github.com/idk-arsh/claude-code-windows-kit)**,
-an English-language setup kit for Claude Code on Windows. Winget install script,
-a settings template with permissions tuned for a Windows dev, and two working
-PowerShell hooks: a secrets guard and a turn-end notifier.
+an English-language setup kit for Claude Code on Windows. Winget install script
+that merges into your existing settings instead of overwriting them, a
+permissions template tuned for a Windows dev, and four PowerShell hooks: a
+secrets guard, a git guard that stops force pushes to main and `rm -rf` on
+the tree, a format-on-edit hook, and a turn-end notifier. 269 test cases run
+the hooks the way Claude Code does, under both PowerShell 5.1 and 7 in CI.
 
 **[claude-skill-lint](https://github.com/idk-arsh/claude-skill-lint)**, a linter
-for Claude Code skills. Six rules covering broken frontmatter, name drift, weak
-triggers, and description length. Zero runtime dependencies, Python 3.10 and up,
-runs in CI in under a second.
+for Claude Code and Agent Skills packages. Fifteen rules: frontmatter that
+parses, keys the host actually knows, descriptions that will trigger, the
+1,536-character listing cap, file references that exist, and a `--target`
+switch that says what claude.ai will reject before you upload. Zero runtime
+dependencies, Python 3.10 and up, runs in CI in under a second.
 
 **[MultiTerm](https://github.com/idk-arsh/multiterm)**, a multi-pane terminal
 workspace for Windows. Real shells over ConPTY, workspaces that remember which
