@@ -12,6 +12,11 @@ Messages API server, so a fork's pull request gets the full suite without a key.
 Chapters 1 to 4 are done: the loop, tools, error recovery, loop control with a
 real dollar cap. In progress in the open.
 
+**[claude-code-windows-kit](https://github.com/idk-arsh/claude-code-windows-kit)**,
+an English-language setup kit for Claude Code on Windows. Winget install script,
+a settings template with permissions tuned for a Windows dev, and two working
+PowerShell hooks: a secrets guard and a turn-end notifier.
+
 **[MultiTerm](https://github.com/idk-arsh/multiterm)**, a multi-pane terminal
 workspace for Windows. Real shells over ConPTY, workspaces that remember which
 folders a project needs and what each one runs, and broadcast typing to every
