@@ -17,6 +17,11 @@ an English-language setup kit for Claude Code on Windows. Winget install script,
 a settings template with permissions tuned for a Windows dev, and two working
 PowerShell hooks: a secrets guard and a turn-end notifier.
 
+**[claude-skill-lint](https://github.com/idk-arsh/claude-skill-lint)**, a linter
+for Claude Code skills. Six rules covering broken frontmatter, name drift, weak
+triggers, and description length. Zero runtime dependencies, Python 3.10 and up,
+runs in CI in under a second.
+
 **[MultiTerm](https://github.com/idk-arsh/multiterm)**, a multi-pane terminal
 workspace for Windows. Real shells over ConPTY, workspaces that remember which
 folders a project needs and what each one runs, and broadcast typing to every
