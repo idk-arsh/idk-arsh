@@ -5,6 +5,13 @@ models and developer tools, mostly in Python.
 
 ## Now
 
+**[build-your-own-agent](https://github.com/idk-arsh/build-your-own-agent)**,
+an AI agent from scratch in twelve chapters. One Python file per chapter, each
+under 200 lines, standard library only. Every chapter runs in CI against a mock
+Messages API server, so a fork's pull request gets the full suite without a key.
+Chapters 1 to 4 are done: the loop, tools, error recovery, loop control with a
+real dollar cap. In progress in the open.
+
 **[MultiTerm](https://github.com/idk-arsh/multiterm)**, a multi-pane terminal
 workspace for Windows. Real shells over ConPTY, workspaces that remember which
 folders a project needs and what each one runs, and broadcast typing to every
@@ -13,12 +20,9 @@ single exe.
 
 ## In progress
 
-Three repos, private until each is worth reading. They tell one story:
-learn how agents work, ship one, test it.
+Two more repos, private until each is worth reading. They finish the story
+that build-your-own-agent starts: learn how agents work, ship one, test it.
 
-- A from-scratch course on AI agents: twelve chapters, one runnable file each,
-  no frameworks, every chapter executed in CI. Public once the first four
-  chapters are done.
 - A production agent starter kit: FastAPI, Next.js, streaming, MCP, auth,
   Docker. Public once it boots from a clean clone with one command.
 - An evaluation and tracing toolkit for LLM agents and MCP servers, pytest
